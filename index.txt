@@ -2,7 +2,7 @@
 // rsync -av index.html checkin:/home/backup/churchto/galloway/index.php
 $VER=2.7
 $include foundation6.txt
-$include incstd.txt
+//$include incstd.txt
 $style+={
   h2 {color: #888;}
   h3, h4 {color: #666;}
@@ -17,7 +17,7 @@ $rows=$td_attr1=rowspan="$rows_num"
 $ROW $COL
 .$TITLE
 ..Fascial Stretch Therapy
-
+[[stretch1.jpg Fascial Stretch Therapy]]
 As a level 3 Fascial Stretch Therapist, Bethany is able to fill the missing piece to your everyday life. This relaxing table stretch will help you achieve a pain-free lifestyle, increased strength, optimal flexibility and all around wellness. It completely re-aligns, re-adjusts and manipulates your fascia the best way possible. It helps you relax and makes your body more mobile.
 This technique is a must try for everyone!
 
@@ -42,15 +42,20 @@ $END $COL medium-6
 *Try an option below:*
 
 ----l
-| 6 × 30min stretch | $50 per session |
-| 12 × 30min stretch | $45 per session |
-| 6 × 90min stretch | $130 per session |
+| 30 min stretch | $50 per session |
+| 90 min stretch | $130 per session |
 ----
 $END $END
 $ROW $COL
 
-Location: Junction Fitness
+..Location
+-Two easy options:
+1. Arrange a visit to your own home
+2. [[http://www.junctionfitnesshub.com Junction Fitness Hub]] 511 Mount Pleasant Rd, Toronto, Ontario M4S 2M2
+
 Please contact Bethany Weir directly at: [[mailto:beth@stretchwithbeth.com]] or call 647-688-3682
+
+[[stretch2.jpg Fascial Stretch Therapy]]
 
 $END $END
 
