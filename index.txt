@@ -1,0 +1,56 @@
+//.Stretch with Beth
+// rsync -av index.html checkin:/home/backup/churchto/galloway/index.php
+$VER=2.7
+$include foundation6.txt
+$include incstd.txt
+$style+={
+  h2 {color: #888;}
+  h3, h4 {color: #666;}
+  body .panel h2 {color: #777;}
+  body .panel h3, body .panel h4 {color: #555;}
+  body div.row { max-width: 48rem; }
+}
+
+$parameters $rows rows_num
+$rows=$td_attr1=rowspan="$rows_num"
+
+$ROW $COL
+.$TITLE
+..Fascial Stretch Therapy
+
+As a level 3 Fascial Stretch Therapist, Bethany is able to fill the missing piece to your everyday life. This relaxing table stretch will help you achieve a pain-free lifestyle, increased strength, optimal flexibility and all around wellness. It completely re-aligns, re-adjusts and manipulates your fascia the best way possible. It helps you relax and makes your body more mobile.
+This technique is a must try for everyone!
+
+$END $END
+$ROW $COL medium-6
+
+*It is excellent for:*
+-ongoing back pain
+-muscle spams
+-joint capsule
+-trigger point release
+-blood flow
+-optimal posture
+-hip replacements
+-depression
+
+$END $COL medium-6
+..Special First Time Offer!!
+-$99 includes assessment and 90min stretch
+
+..Want an easy way to get started?
+*Try an option below:*
+
+----l
+| 6 × 30min stretch | $50 per session |
+| 12 × 30min stretch | $45 per session |
+| 6 × 90min stretch | $130 per session |
+----
+$END $END
+$ROW $COL
+
+Location: Junction Fitness
+Please contact Bethany Weir directly at: [[mailto:beth@stretchwithbeth.com]] or call 647-688-3682
+
+$END $END
+
