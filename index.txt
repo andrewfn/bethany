@@ -36,7 +36,9 @@ $ROW $COL medium-6
 
 $END $COL medium-6
 ..Special First Time Offer!!
--$99 includes assessment and 90min stretch
+----l
+| Assessment plus/+90 min stretch | $99 special |
+----
 
 ..Want an easy way to get started?
 *Try an option below:*
