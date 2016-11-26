@@ -1,5 +1,4 @@
 //.Stretch with Beth
-// rsync -av index.html checkin:/home/backup/churchto/galloway/index.php
 $VER=2.7
 $include foundation6.txt
 //$include incstd.txt
@@ -50,19 +49,13 @@ $END $COL medium-6
 $END $END
 $ROW $COL
 
-..Location
--Two easy options:
-1. Arrange a visit to your own home
-2. [[http://www.junctionfitnesshub.com Junction Fitness Hub]] 511 Mount Pleasant Rd, Toronto, Ontario M4S 2M2
-
-Please contact Bethany Weir directly at: [[mailto:beth@stretchwithbeth.com]] or call 647-688-3682
 
 [[stretch2.jpg Fascial Stretch Therapy]]
 
 $END $END
 
 $ROW $COL
-..Recommendations
+..Client Testimonials
 $link=http://contourspersonaltraining.blogspot.ca
 [[$link [[kelly_barrington.jpg Kelly Barrington]] Kelly Barrington]]
 
@@ -70,6 +63,17 @@ $link=http://contourspersonaltraining.blogspot.ca
  I was curious about this methodology and wanted to try it out after a long season of running.  When I met Bethany Weir, my FST (Fascial Stretch Therapist), she greeted me warmly, made me feel comfortable and explained to me the stretching process.  She manipulated my arms and legs into deep stretching positions while I laid on the table and was guided gently, yet deeply, through the stretches. Basically the process helped to re-align, re-adjust, and manipulate my fascia back to it normal relaxed state so that my body, limbs and joints were more mobile. Afterward, I feel relaxed, more flexible and many general body aches were relieved. 
 
  If you’d like to learn more about FST, or would like to contact the Fascial Stretch Therapist I visited, I can highly recommend Bethany Weir. 
-[[http://contourspersonaltraining.blogspot.ca/2016/10/fascial-stretch-therapy.html Read more about Facial Stretch Therapy on Kelly's blog]].
+ [[http://contourspersonaltraining.blogspot.ca/2016/10/fascial-stretch-therapy.html Read more about Facial Stretch Therapy on Kelly's blog]].
+$END $END
+
+$div_class1=panel
+$ROW $COL
+..Contact & Location
+-Two easy options:
+1. Arrange a visit to your own home
+2. [[http://www.junctionfitnesshub.com Junction Fitness Hub]] 511 Mount Pleasant Rd, Toronto, Ontario M4S 2M2
+
+Contact Bethany Weir directly at: [[mailto:beth@stretchwithbeth.com]] or call 647-688-3682
+
 $END $END
 
