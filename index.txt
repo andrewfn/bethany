@@ -61,3 +61,15 @@ Please contact Bethany Weir directly at: [[mailto:beth@stretchwithbeth.com]] or 
 
 $END $END
 
+$ROW $COL
+..Recommendations
+$link=http://contourspersonaltraining.blogspot.ca
+[[$link [[kelly_barrington.jpg Kelly Barrington]] Kelly Barrington]]
+
+...Kelly writes:
+ I was curious about this methodology and wanted to try it out after a long season of running.  When I met Bethany Weir, my FST (Fascial Stretch Therapist), she greeted me warmly, made me feel comfortable and explained to me the stretching process.  She manipulated my arms and legs into deep stretching positions while I laid on the table and was guided gently, yet deeply, through the stretches. Basically the process helped to re-align, re-adjust, and manipulate my fascia back to it normal relaxed state so that my body, limbs and joints were more mobile. Afterward, I feel relaxed, more flexible and many general body aches were relieved. 
+
+ If you’d like to learn more about FST, or would like to contact the Fascial Stretch Therapist I visited, I can highly recommend Bethany Weir. 
+[[http://contourspersonaltraining.blogspot.ca/2016/10/fascial-stretch-therapy.html Read more about Facial Stretch Therapy on Kelly's blog]].
+$END $END
+
