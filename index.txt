@@ -9,6 +9,7 @@ $style+={
   body .panel h2 {color: #777;}
   body .panel h3, body .panel h4 {color: #555;}
   body div.row { max-width: 48rem; }
+  body .panel {border-style:solid;border-width:1px;border-color:#d8d8d8;margin-bottom:1.25rem;padding:1.25rem;background:#f2f2f2;color:#333}
 }
 
 $parameters $rows rows_num
@@ -17,7 +18,7 @@ $rows=$td_attr1=rowspan="$rows_num"
 $ROW $COL
 .$TITLE
 ..Fascial Stretch Therapy
-[[stretch1.jpg Fascial Stretch Therapy]]
+[[stretch3.jpg Fascial Stretch Therapy]]
 As a level 3 Fascial Stretch Therapist, Bethany is able to fill the missing piece to your everyday life. This relaxing table stretch will help you achieve a pain-free lifestyle, increased strength, optimal flexibility and all around wellness. It completely re-aligns, re-adjusts and manipulates your fascia the best way possible. It helps you relax and makes your body more mobile.
 This technique is a must try for everyone!
 
@@ -48,16 +49,43 @@ $END $COL medium-6
 | 90 min stretch | $130 per session |
 ----
 $END $END
-$ROW $COL
 
+$div_class1=panel
+$ROW $COL
 ..Location
 -Two easy options:
 1. Arrange a visit to your own home
 2. [[http://www.junctionfitnesshub.com Junction Fitness Hub]] 511 Mount Pleasant Rd, Toronto, Ontario M4S 2M2
 
 Please contact Bethany Weir directly at: [[mailto:beth@stretchwithbeth.com]] or call 647-688-3682
+$END $END
 
+$ROW $COL
+..Client Testimonials
+$END $COL medium-6
+This client had severe shoulder and upper back tightness for years. This was after one hour of FST.
+He felt amazing when we were finished after 2 hours (doing both sides of his upper body).
+$END $COL medium-6
+<div>[[client-shoulders.jpg client with shoulder problem]]</div>
+$END $END
+--
+$ROW $COL medium-6
+Check out this girl’s knees! That is right. If you look at the knee to left and then the one on her right there is a huge difference. You can see her left knee is touching the floor while her right knee is not. This is after an hour of FST treatment on her left knee.
+We loosened up her right side after the picture of course so she would walk straight.
+It was a pleasure to work with her and to see her results after her treatment.
+$END $COL medium-6
+<div>[[client-knees.jpg client with knee problem]]</div>
+$END $END
+--
+$ROW $COL medium-6
+This client whose hands are a great distance apart had a lot of tightness in her upper arm, chest and shoulder region. She had a lot of fear in being stretched at all because she had two previous injuries resulting in herniated discs.
+Once she decided to go through with her treatment she knew she may the right decision.
+She loved being open and loose in her upper and lower body. She was very glad she chose FST.
+$END $COL medium-6
+<div>[[client-upper-body.jpg client with upper body problem]]</div>
+$END $END
+
+$ROW $COL
 [[stretch2.jpg Fascial Stretch Therapy]]
-
 $END $END
 
